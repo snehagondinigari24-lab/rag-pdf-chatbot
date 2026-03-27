@@ -1,9 +1,10 @@
 langchain
 openai
-pinecone-client
 fastapi
 uvicorn
 python-dotenv
 pypdf
 tiktoken
 unstructured
+faiss-cpu
+streamlit
